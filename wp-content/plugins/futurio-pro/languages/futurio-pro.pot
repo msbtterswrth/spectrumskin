@@ -1,0 +1,1344 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Futurio PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 09:08+0200\n"
+"PO-Revision-Date: 2016-03-09 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: FuturioWP <info@futurio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: include\n"
+"X-Poedit-SearchPathExcluded-1: lib/ultimate-elementor\n"
+
+#: futurio-pro.php:95
+msgid "You need to have <a href=\"https://wordpress.org/themes/futurio/\" target=\"_blank\">Futurio</a> theme in order to use Futurio PRO plugin."
+msgstr ""
+
+#: futurio-pro.php:113
+msgid "<i>Futurio PRO</i> plugin has been deactivated."
+msgstr ""
+
+#: lib/elementor/helpers.php:63
+#, php-format
+msgid "View all %d results"
+msgstr ""
+
+#: lib/elementor/helpers.php:71
+msgid "No results"
+msgstr ""
+
+#: lib/elementor/helpers.php:72
+msgid "No search results could be found, please try another search."
+msgstr ""
+
+#: lib/elementor/helpers.php:102
+msgid "No sidebars were found"
+msgstr ""
+
+#: lib/elementor/helpers.php:104 lib/elementor/helpers.php:127
+msgid "-- Select --"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:16
+msgid "Futurio Custom Menu"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:32
+msgid "Menu Options"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:39
+msgid "Select menu"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:49 lib/elementor/widgets/off-canvas.php:147
+#: lib/elementor/widgets/search.php:127
+#: lib/elementor/widgets/woo-products-carousel.php:556
+#: lib/elementor/widgets/woo-products-grid.php:500
+msgid "Alignment"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:54 lib/elementor/widgets/off-canvas.php:151
+#: lib/elementor/widgets/search.php:131
+#: lib/elementor/widgets/woo-products-carousel.php:527
+#: lib/elementor/widgets/woo-products-carousel.php:560
+#: lib/elementor/widgets/woo-products-grid.php:471
+#: lib/elementor/widgets/woo-products-grid.php:504
+msgid "Left"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:58 lib/elementor/widgets/off-canvas.php:155
+#: lib/elementor/widgets/search.php:135
+#: lib/elementor/widgets/woo-products-carousel.php:564
+#: lib/elementor/widgets/woo-products-grid.php:508
+msgid "Center"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:62 lib/elementor/widgets/off-canvas.php:159
+#: lib/elementor/widgets/search.php:139
+#: lib/elementor/widgets/woo-products-carousel.php:488
+#: lib/elementor/widgets/woo-products-carousel.php:568
+#: lib/elementor/widgets/woo-products-grid.php:432
+#: lib/elementor/widgets/woo-products-grid.php:512
+msgid "Right"
+msgstr ""
+
+#: lib/elementor/widgets/menu.php:88
+msgid "Menu"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:19
+#: lib/elementor/widgets/off-canvas.php:43
+#: lib/elementor/widgets/off-canvas.php:139
+#: lib/elementor/widgets/off-canvas.php:226
+msgid "Off Canvas"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:50
+msgid "Source"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:54 options/sidebar.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:55
+msgid "Template"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:63
+msgid "Choose Sidebar"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:76
+msgid "Choose Template"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:89 lib/elementor/widgets/search.php:52
+#: lib/elementor/widgets/woo-products-carousel.php:425
+#: lib/elementor/widgets/woo-products-grid.php:369
+msgid "Width"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:111
+msgid "Overlay"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:119
+#: lib/elementor/widgets/off-canvas.php:299
+msgid "Close Button"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:130
+#: lib/elementor/widgets/off-canvas.php:409
+msgid "Button"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:137
+#: options/colors-typography-archive.php:30
+#: options/colors-typography-archive.php:58
+#: options/colors-typography-posts-pages.php:30
+#: options/colors-typography-posts-pages.php:58
+msgid "Text"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:163
+#: lib/elementor/widgets/woo-products-carousel.php:572
+#: lib/elementor/widgets/woo-products-grid.php:516
+msgid "Justified"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:175 options/woocommerce.php:578
+msgid "Icon"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:185
+msgid "Icon Position"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:189
+msgid "Before"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:190
+msgid "After"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:201
+msgid "Icon Spacing"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:234
+#: lib/elementor/widgets/off-canvas.php:352
+#: lib/elementor/widgets/off-canvas.php:435
+#: lib/elementor/widgets/off-canvas.php:466
+#: lib/elementor/widgets/search.php:433
+#: lib/elementor/widgets/woo-products-carousel.php:911
+#: lib/elementor/widgets/woo-products-carousel.php:941
+msgid "Background Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:245
+#: lib/elementor/widgets/off-canvas.php:446
+#: lib/elementor/widgets/off-canvas.php:477
+#: lib/elementor/widgets/search.php:641
+msgid "Text Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:256
+msgid "Link Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:268
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:287
+#: lib/elementor/widgets/off-canvas.php:377
+#: lib/elementor/widgets/off-canvas.php:534
+#: lib/elementor/widgets/search.php:312
+#: lib/elementor/widgets/woo-products-carousel.php:799
+#: lib/elementor/widgets/woo-products-grid.php:743
+msgid "Padding"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:311
+#: lib/elementor/widgets/search.php:181 lib/elementor/widgets/search.php:212
+#: lib/elementor/widgets/search.php:254 lib/elementor/widgets/search.php:387
+#: lib/elementor/widgets/search.php:407
+#: lib/elementor/widgets/woo-products-carousel.php:414
+#: lib/elementor/widgets/woo-products-carousel.php:617
+#: lib/elementor/widgets/woo-products-carousel.php:637
+#: lib/elementor/widgets/woo-products-carousel.php:788
+#: lib/elementor/widgets/woo-products-carousel.php:901
+#: lib/elementor/widgets/woo-products-carousel.php:931
+#: lib/elementor/widgets/woo-products-carousel.php:979
+#: lib/elementor/widgets/woo-products-carousel.php:999
+#: lib/elementor/widgets/woo-products-carousel.php:1037
+#: lib/elementor/widgets/woo-products-carousel.php:1057
+#: lib/elementor/widgets/woo-products-grid.php:358
+#: lib/elementor/widgets/woo-products-grid.php:561
+#: lib/elementor/widgets/woo-products-grid.php:581
+#: lib/elementor/widgets/woo-products-grid.php:732
+#: lib/elementor/widgets/woo-products-grid.php:846
+#: lib/elementor/widgets/woo-products-grid.php:866
+#: options/colors-typography-footer-credits.php:46
+#: options/colors-typography-footer-widget.php:46
+#: options/colors-typography-footer-widget.php:89
+#: options/colors-typography-top-bar.php:49 options/colors-typography.php:46
+#: options/colors-typography.php:84 options/woocommerce.php:129
+#: options/woocommerce.php:164 options/woocommerce.php:199
+#: options/woocommerce.php:397 options/woocommerce.php:445
+#: options/woocommerce.php:476 options/woocommerce.php:511
+#: options/woocommerce.php:549 options/woocommerce.php:614
+msgid "Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:325
+msgid "Hover Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:341
+msgid "Widgets"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:392
+#: lib/elementor/widgets/off-canvas.php:547
+#: lib/elementor/widgets/woo-products-carousel.php:811
+#: lib/elementor/widgets/woo-products-grid.php:755
+msgid "Margin"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:428
+#: lib/elementor/widgets/search.php:163 lib/elementor/widgets/search.php:380
+#: lib/elementor/widgets/search.php:459
+#: lib/elementor/widgets/woo-products-carousel.php:173
+#: lib/elementor/widgets/woo-products-carousel.php:347
+#: lib/elementor/widgets/woo-products-carousel.php:610
+#: lib/elementor/widgets/woo-products-carousel.php:721
+#: lib/elementor/widgets/woo-products-carousel.php:894
+#: lib/elementor/widgets/woo-products-carousel.php:972
+#: lib/elementor/widgets/woo-products-carousel.php:1030
+#: lib/elementor/widgets/woo-products-grid.php:137
+#: lib/elementor/widgets/woo-products-grid.php:291
+#: lib/elementor/widgets/woo-products-grid.php:554
+#: lib/elementor/widgets/woo-products-grid.php:665
+#: lib/elementor/widgets/woo-products-grid.php:839
+msgid "Normal"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:459
+#: lib/elementor/widgets/search.php:194 lib/elementor/widgets/search.php:400
+#: lib/elementor/widgets/search.php:523
+#: lib/elementor/widgets/woo-products-carousel.php:190
+#: lib/elementor/widgets/woo-products-carousel.php:364
+#: lib/elementor/widgets/woo-products-carousel.php:630
+#: lib/elementor/widgets/woo-products-carousel.php:738
+#: lib/elementor/widgets/woo-products-carousel.php:924
+#: lib/elementor/widgets/woo-products-carousel.php:992
+#: lib/elementor/widgets/woo-products-carousel.php:1050
+#: lib/elementor/widgets/woo-products-grid.php:154
+#: lib/elementor/widgets/woo-products-grid.php:308
+#: lib/elementor/widgets/woo-products-grid.php:574
+#: lib/elementor/widgets/woo-products-grid.php:682
+#: lib/elementor/widgets/woo-products-grid.php:859
+#: options/colors-typography-footer-credits.php:48
+#: options/colors-typography-footer-widget.php:47
+#: options/colors-typography-footer-widget.php:91
+#: options/colors-typography-top-bar.php:50 options/colors-typography.php:47
+#: options/woocommerce.php:615
+msgid "Hover"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:488
+#: lib/elementor/widgets/search.php:223 lib/elementor/widgets/search.php:265
+#: lib/elementor/widgets/woo-products-carousel.php:307
+#: lib/elementor/widgets/woo-products-carousel.php:868
+#: lib/elementor/widgets/woo-products-grid.php:251
+#: lib/elementor/widgets/woo-products-grid.php:812
+msgid "Border Color"
+msgstr ""
+
+#: lib/elementor/widgets/off-canvas.php:514
+#: lib/elementor/widgets/search.php:300 lib/elementor/widgets/search.php:444
+#: lib/elementor/widgets/woo-products-carousel.php:318
+#: lib/elementor/widgets/woo-products-carousel.php:455
+#: lib/elementor/widgets/woo-products-carousel.php:823
+#: lib/elementor/widgets/woo-products-grid.php:262
+#: lib/elementor/widgets/woo-products-grid.php:399
+#: lib/elementor/widgets/woo-products-grid.php:767
+msgid "Border Radius"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:20
+msgid "Ajax Search"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:45 lib/elementor/widgets/search.php:106
+#: lib/elementor/widgets/search.php:107
+msgid "Search"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:78
+#: lib/elementor/widgets/woo-products-carousel.php:440
+#: lib/elementor/widgets/woo-products-grid.php:384
+msgid "Height"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:104
+msgid "Placeholder"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:115
+msgid "Enable Ajax"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:117
+msgid "Show"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:118
+msgid "Hide"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:153
+msgid "Input"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:170 lib/elementor/widgets/search.php:201
+#: lib/elementor/widgets/search.php:243
+#: options/colors-typography-archive.php:31
+#: options/colors-typography-archive.php:59
+#: options/colors-typography-footer-widget.php:26
+#: options/colors-typography-posts-pages.php:31
+#: options/colors-typography-posts-pages.php:59
+#: options/colors-typography.php:26 options/colors-typography.php:85
+#: options/woocommerce.php:75 options/woocommerce.php:131
+#: options/woocommerce.php:166 options/woocommerce.php:200
+#: options/woocommerce.php:398 options/woocommerce.php:446
+#: options/woocommerce.php:478 options/woocommerce.php:513
+msgid "Background"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:236
+msgid "Focus"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:289
+#: lib/elementor/widgets/woo-products-carousel.php:265
+#: lib/elementor/widgets/woo-products-grid.php:209
+#: options/colors-typography.php:86 options/woocommerce.php:130
+#: options/woocommerce.php:165 options/woocommerce.php:477
+#: options/woocommerce.php:512 options/woocommerce.php:550
+msgid "Border"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:335
+msgid "Icon Button"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:344
+msgid "Font Size"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:361
+msgid "Position"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:424
+msgid "Search Results"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:466 lib/elementor/widgets/search.php:530
+msgid "Links Background"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:477 lib/elementor/widgets/search.php:541
+msgid "Links Color"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:488 lib/elementor/widgets/search.php:552
+msgid "Links Border Color"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:499 lib/elementor/widgets/search.php:563
+msgid "Icons Color"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:510 lib/elementor/widgets/search.php:574
+msgid "All Results Color"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:589
+msgid "Links Padding"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:612
+msgid "No Results Found"
+msgstr ""
+
+#: lib/elementor/widgets/search.php:621
+msgid "Heading Color"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:38
+msgid "Slider"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:90
+#: lib/elementor/widgets/woo-products-carousel.php:548
+#: lib/elementor/widgets/woo-products-grid.php:492
+#: options/colors-typography.php:14
+msgid "Content"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:114
+msgid "Select Slides"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:127
+msgid "Slider Options"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:135
+#: lib/elementor/widgets/slider-widget.php:213
+msgid "Navigation"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:139
+msgid "Arrows and Dots"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:140
+#: lib/elementor/widgets/slider-widget.php:224
+#: lib/elementor/widgets/woo-products-carousel.php:134
+#: lib/elementor/widgets/woo-products-carousel.php:959
+msgid "Arrows"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:141
+#: lib/elementor/widgets/slider-widget.php:270
+#: lib/elementor/widgets/woo-products-carousel.php:144
+#: lib/elementor/widgets/woo-products-carousel.php:881
+msgid "Dots"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:142
+msgid "None"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:150
+msgid "Pause on Hover"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:159
+#: lib/elementor/widgets/woo-products-carousel.php:114
+msgid "Autoplay"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:168
+msgid "Autoplay Speed"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:180
+msgid "Infinite Loop"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:189
+msgid "Transition"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:193
+msgid "Slide"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:194
+msgid "Fade"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:202
+msgid "Transition Speed (ms)"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:236
+msgid "Arrows Size"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:256
+msgid "Arrows Color"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:282
+msgid "Dots Size"
+msgstr ""
+
+#: lib/elementor/widgets/slider-widget.php:302
+msgid "Dots Color"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:21
+msgid "Woo Products Carousel"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:48
+msgid "Carousel Options"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:57
+#: lib/elementor/widgets/woo-products-grid.php:46
+msgid "Products"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:61
+#: lib/elementor/widgets/woo-products-grid.php:50
+msgid "Recent"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:62
+#: lib/elementor/widgets/woo-products-grid.php:51
+msgid "Best selling"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:63
+#: lib/elementor/widgets/woo-products-grid.php:52
+msgid "On sale"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:64
+#: lib/elementor/widgets/woo-products-grid.php:53
+msgid "Featured"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:72
+#: lib/elementor/widgets/woo-products-grid.php:61
+msgid "Order by"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:76
+#: lib/elementor/widgets/woo-products-grid.php:65
+msgid "Date"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:77
+#: lib/elementor/widgets/woo-products-carousel.php:588
+#: lib/elementor/widgets/woo-products-grid.php:66
+#: lib/elementor/widgets/woo-products-grid.php:532
+msgid "Title"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:78
+#: lib/elementor/widgets/woo-products-grid.php:67
+msgid "ID"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:79
+#: lib/elementor/widgets/woo-products-grid.php:68
+msgid "Rand"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:87
+#: lib/elementor/widgets/woo-products-grid.php:76
+msgid "Columns"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:96
+msgid "Carousel items"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:105
+msgid "Slider pause"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:124
+msgid "Pause on hover"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:160
+#: lib/elementor/widgets/woo-products-grid.php:124
+msgid "Product Layout"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:205
+#: lib/elementor/widgets/woo-products-carousel.php:379
+#: lib/elementor/widgets/woo-products-carousel.php:753
+#: lib/elementor/widgets/woo-products-grid.php:169
+#: lib/elementor/widgets/woo-products-grid.php:323
+#: lib/elementor/widgets/woo-products-grid.php:697
+msgid "Transition Duration"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:232
+msgid "Horizontal Padding"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:252
+#: lib/elementor/widgets/woo-products-grid.php:196
+msgid "Content Padding"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:274
+#: lib/elementor/widgets/woo-products-carousel.php:835
+#: lib/elementor/widgets/woo-products-grid.php:218
+#: lib/elementor/widgets/woo-products-grid.php:779
+msgid "Border Width"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:286
+#: lib/elementor/widgets/woo-products-carousel.php:847
+#: lib/elementor/widgets/woo-products-grid.php:230
+#: lib/elementor/widgets/woo-products-grid.php:791
+msgid "Border Style"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:289
+#: lib/elementor/widgets/woo-products-carousel.php:850
+#: lib/elementor/widgets/woo-products-grid.php:233
+#: lib/elementor/widgets/woo-products-grid.php:794
+msgid "Solid"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:290
+#: lib/elementor/widgets/woo-products-carousel.php:851
+#: lib/elementor/widgets/woo-products-grid.php:234
+#: lib/elementor/widgets/woo-products-grid.php:795
+msgid "Dashed"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:291
+#: lib/elementor/widgets/woo-products-carousel.php:852
+#: lib/elementor/widgets/woo-products-grid.php:235
+#: lib/elementor/widgets/woo-products-grid.php:796
+msgid "Dotted"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:292
+#: lib/elementor/widgets/woo-products-carousel.php:853
+#: lib/elementor/widgets/woo-products-grid.php:236
+#: lib/elementor/widgets/woo-products-grid.php:797
+msgid "Double"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:293
+#: lib/elementor/widgets/woo-products-carousel.php:854
+#: lib/elementor/widgets/woo-products-grid.php:237
+#: lib/elementor/widgets/woo-products-grid.php:798
+msgid "Groove"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:294
+#: lib/elementor/widgets/woo-products-carousel.php:855
+#: lib/elementor/widgets/woo-products-grid.php:238
+#: lib/elementor/widgets/woo-products-grid.php:799
+msgid "Inset"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:295
+#: lib/elementor/widgets/woo-products-carousel.php:856
+#: lib/elementor/widgets/woo-products-grid.php:239
+#: lib/elementor/widgets/woo-products-grid.php:800
+msgid "Outset"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:296
+#: lib/elementor/widgets/woo-products-carousel.php:857
+#: lib/elementor/widgets/woo-products-grid.php:240
+#: lib/elementor/widgets/woo-products-grid.php:801
+msgid "Ridge"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:332
+#: lib/elementor/widgets/woo-products-grid.php:276
+msgid "Sale flash"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:467
+#: lib/elementor/widgets/woo-products-grid.php:411
+msgid "Top"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:509
+#: lib/elementor/widgets/woo-products-grid.php:453
+msgid "Bottom"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:655
+#: lib/elementor/widgets/woo-products-grid.php:599
+msgid "Price"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:672
+#: lib/elementor/widgets/woo-products-grid.php:616
+msgid "Regular Price Color"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:692
+#: lib/elementor/widgets/woo-products-grid.php:636
+msgid "Sale Price Color"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:705
+#: lib/elementor/widgets/woo-products-grid.php:649
+msgid "Add To Cart"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-carousel.php:1017
+#: lib/elementor/widgets/woo-products-grid.php:826 options/woocommerce.php:108
+msgid "Categories"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:21
+msgid "Woo Products Grid"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:37
+msgid "Options"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:85
+msgid "Items"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:93
+msgid "Product ID's"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:94
+msgid "Comma separated (eg. 5,9,36). Leave blank to show all."
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:105
+msgid "Category (Slug)"
+msgstr ""
+
+#: lib/elementor/widgets/woo-products-grid.php:106
+msgid "Comma separated (eg. hoodies, tshirts). Leave blank to show all."
+msgstr ""
+
+#: lib/infinite-load.php:72
+msgid "Load more"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:144
+#: lib/vendor/include/class.options.php:151
+msgid "Activate Futurio Pro to get feature updates, premium support and unlimited access to the demo library. Please enter your"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:144
+#: lib/vendor/include/class.options.php:151
+msgid "Licence Key"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:179
+#: lib/vendor/include/class.options.php:261
+msgid "There was a problem connecting to "
+msgstr ""
+
+#: lib/vendor/include/class.options.php:217
+msgid "There was a problem deactivating the licence: "
+msgstr ""
+
+#: lib/vendor/include/class.options.php:224
+#: lib/vendor/include/class.options.php:294
+msgid "There was a problem with the data block received from "
+msgstr ""
+
+#: lib/vendor/include/class.options.php:245
+msgid "Licence Key can't be empty"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:288
+msgid "There was a problem activating the licence: "
+msgstr ""
+
+#: lib/vendor/include/class.options.php:312
+#: lib/vendor/include/class.options.php:362
+msgid "Futurio PRO License"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:324
+#: lib/vendor/include/class.options.php:370
+msgid "License Key"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:329
+#: lib/vendor/include/class.options.php:415
+msgid "Enter the License Key you got when bought this product. If you lost the key, you can always retrieve it from"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:329
+#: lib/vendor/include/class.options.php:415
+msgid "My Account"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:339
+msgid "Save"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:356
+#: lib/vendor/include/class.options.php:407 options/woocommerce.php:15
+msgid "General Settings"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:409
+msgid "Software License"
+msgstr ""
+
+#: lib/vendor/include/class.options.php:413
+msgid "License Key Required"
+msgstr ""
+
+#: lib/vendor/include/class.updater.php:72
+msgid "An error occour when try to identify the pluguin."
+msgstr ""
+
+#: lib/vendor/include/class.updater.php:72
+#: lib/vendor/include/class.updater.php:78
+msgid "Try again"
+msgstr ""
+
+#: lib/vendor/include/class.updater.php:78
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: lib/widgets/pro-posts.php:8
+msgid "Futurio PRO: Posts"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:8
+msgid "Display posts from a category"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:119 lib/widgets/pro-tabs.php:299
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:123
+msgid "List Posts"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:127 lib/widgets/pro-tabs.php:311
+#: lib/widgets/pro-tabs.php:331
+msgid "Show thumbnails"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:130 lib/widgets/pro-tabs.php:314
+#: lib/widgets/pro-tabs.php:334 lib/widgets/pro-tabs.php:364
+msgid "Items to show"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:134 lib/widgets/pro-tabs.php:318
+#: lib/widgets/pro-tabs.php:338
+msgid "Category:"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:135 lib/widgets/pro-tabs.php:319
+#: lib/widgets/pro-tabs.php:339
+msgid "All"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:138
+msgid "Order by:"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:140
+msgid "Most recent"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:141
+msgid "Most commented"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:142
+msgid "Random"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:146
+msgid "Posts from:"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:148 lib/widgets/pro-tabs.php:344
+msgid "All time"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:149 lib/widgets/pro-tabs.php:345
+msgid "This year"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:150 lib/widgets/pro-tabs.php:346
+msgid "This month"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:151 lib/widgets/pro-tabs.php:347
+msgid "This week"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:152 lib/widgets/pro-tabs.php:348
+msgid "Past 24 hours"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:157
+msgid "Post Info"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:161 lib/widgets/pro-tabs.php:401
+msgid "Show categories"
+msgstr ""
+
+#: lib/widgets/pro-posts.php:165 lib/widgets/pro-tabs.php:405
+msgid "Show dates"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:19
+msgid "Alx Tabs"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:19
+msgid "List posts, comments, and/or tags with or without tabs."
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:57 lib/widgets/pro-tabs.php:303
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:58
+msgid "Popular Posts"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:59 lib/widgets/pro-tabs.php:353
+msgid "Recent Comments"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:60 lib/widgets/pro-tabs.php:369
+#: lib/widgets/pro-tabs.php:392
+msgid "Tags"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:203
+msgid "says:"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:307
+msgid "Enable recent posts"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:323
+msgid "Most Popular"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:327
+msgid "Enable most popular posts"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:342
+msgid "Post with most comments from:"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:357
+msgid "Enable recent comments"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:361
+msgid "Show avatars"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:373
+msgid "Enable tags"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:377
+msgid "Tab Order"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:380
+msgid "Recent posts"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:384
+msgid "Most popular"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:388
+msgid "Recent comments"
+msgstr ""
+
+#: lib/widgets/pro-tabs.php:397
+msgid "Tab Info"
+msgstr ""
+
+#: lib/woocommerce.php:91
+msgid "Select options"
+msgstr ""
+
+#: lib/woocommerce.php:113
+msgid "Add to Wishlist"
+msgstr ""
+
+#: lib/woocommerce.php:114
+msgid "Added!"
+msgstr ""
+
+#: lib/woocommerce.php:114
+msgid "View Wishlist"
+msgstr ""
+
+#: lib/woocommerce.php:115
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: lib/woocommerce.php:115
+msgid "Browse Wishlist"
+msgstr ""
+
+#: options/colors-typography-archive.php:9
+#: options/colors-typography-footer-credits.php:10
+#: options/colors-typography-footer-widget.php:10
+#: options/colors-typography-posts-pages.php:9
+#: options/colors-typography-presets.php:10
+#: options/colors-typography-top-bar.php:10
+#: options/colors-typography-widget.php:10 options/colors-typography.php:10
+msgid "Colors and Typography"
+msgstr ""
+
+#: options/colors-typography-archive.php:13
+msgid "Blog & Archive"
+msgstr ""
+
+#: options/colors-typography-archive.php:25
+#: options/colors-typography-posts-pages.php:25
+msgid "Date colors"
+msgstr ""
+
+#: options/colors-typography-archive.php:53
+#: options/colors-typography-posts-pages.php:53
+msgid "Comments colors"
+msgstr ""
+
+#: options/colors-typography-footer-credits.php:14
+msgid "Footer credits"
+msgstr ""
+
+#: options/colors-typography-footer-credits.php:26
+#: options/colors-typography-footer-widget.php:69
+msgid "Copyright background"
+msgstr ""
+
+#: options/colors-typography-footer-credits.php:41
+#: options/colors-typography-footer-widget.php:84
+msgid "Copyright"
+msgstr ""
+
+#: options/colors-typography-footer-credits.php:47
+#: options/colors-typography-footer-widget.php:41
+#: options/colors-typography-footer-widget.php:90
+#: options/colors-typography-top-bar.php:44 options/colors-typography.php:41
+msgid "Links"
+msgstr ""
+
+#: options/colors-typography-footer-widget.php:14
+msgid "Footer widgets"
+msgstr ""
+
+#: options/colors-typography-header-title.php:9
+msgid "Header & Title"
+msgstr ""
+
+#: options/colors-typography-header-title.php:21
+msgid "Header Background"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:8
+msgid "Main Menu"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:19
+msgid "Main Menu Background"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:42
+msgid "Floating menu background"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:60
+msgid "Font hover"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:85
+msgid "Menu background hover"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:106
+msgid "Active menu font color"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:131
+msgid "Active menu background"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:153
+msgid "Menu border"
+msgstr ""
+
+#: options/colors-typography-main-menu.php:168
+msgid "Sub-menu border"
+msgstr ""
+
+#: options/colors-typography-posts-pages.php:13
+msgid "Posts & Pages"
+msgstr ""
+
+#: options/colors-typography-presets.php:14
+#: options/colors-typography-presets.php:26
+msgid "Color presets"
+msgstr ""
+
+#: options/colors-typography-top-bar.php:14
+msgid "Top bar"
+msgstr ""
+
+#: options/colors-typography-top-bar.php:25
+msgid "Top bar background"
+msgstr ""
+
+#: options/colors-typography-widget.php:14
+msgid "Widget"
+msgstr ""
+
+#: options/colors-typography.php:79 options/woocommerce.php:30
+#: options/woocommerce.php:124 options/woocommerce.php:471
+msgid "Buttons"
+msgstr ""
+
+#: options/custom-codes.php:12
+msgid "Custom Codes"
+msgstr ""
+
+#: options/custom-codes.php:19
+msgid "Code to be added to the HEAD"
+msgstr ""
+
+#: options/custom-codes.php:20
+msgid "Suitable for Google Analytics code"
+msgstr ""
+
+#: options/custom-codes.php:41
+msgid "Code to be added to the footer"
+msgstr ""
+
+#: options/global.php:8
+msgid "Global Options"
+msgstr ""
+
+#: options/global.php:15
+msgid "Content width"
+msgstr ""
+
+#: options/global.php:20
+msgid "980"
+msgstr ""
+
+#: options/global.php:21
+msgid "1024"
+msgstr ""
+
+#: options/global.php:22
+msgid "1170"
+msgstr ""
+
+#: options/global.php:23
+msgid "1280"
+msgstr ""
+
+#: options/global.php:24
+msgid "1440"
+msgstr ""
+
+#: options/global.php:68
+msgid "Back to top button"
+msgstr ""
+
+#: options/menu-icons.php:8
+msgid "Main menu"
+msgstr ""
+
+#: options/menu-icons.php:15
+msgid "Sticky main menu"
+msgstr ""
+
+#: options/posts-pages.php:8
+msgid "Posts and pages"
+msgstr ""
+
+#: options/posts-pages.php:12
+msgid "Blog posts archive"
+msgstr ""
+
+#: options/posts-pages.php:18
+msgid "Single post and page"
+msgstr ""
+
+#: options/posts-pages.php:35
+msgid "Load More Posts with AJAX"
+msgstr ""
+
+#: options/posts-pages.php:40
+msgid "Off"
+msgstr ""
+
+#: options/posts-pages.php:41
+msgid "On click"
+msgstr ""
+
+#: options/posts-pages.php:42
+msgid "Infinite"
+msgstr ""
+
+#: options/sidebar.php:15
+msgid "Sticky sidebar"
+msgstr ""
+
+#: options/woocommerce.php:11
+msgid "WooCommerce"
+msgstr ""
+
+#: options/woocommerce.php:20
+msgid "Archive/Shop"
+msgstr ""
+
+#: options/woocommerce.php:25
+msgid "Product Page"
+msgstr ""
+
+#: options/woocommerce.php:35
+msgid "Other"
+msgstr ""
+
+#: options/woocommerce.php:47
+msgid "Ajax add to cart on product page"
+msgstr ""
+
+#: options/woocommerce.php:55
+msgid "Open header cart automatically"
+msgstr ""
+
+#: options/woocommerce.php:63
+msgid "Open popup cart"
+msgstr ""
+
+#: options/woocommerce.php:93 options/woocommerce.php:368
+msgid "Rating stars"
+msgstr ""
+
+#: options/woocommerce.php:159 options/woocommerce.php:506
+msgid "Buttons hover"
+msgstr ""
+
+#: options/woocommerce.php:194 options/woocommerce.php:440
+msgid "Sale"
+msgstr ""
+
+#: options/woocommerce.php:223
+msgid "Image flipper"
+msgstr ""
+
+#: options/woocommerce.php:231
+msgid "Gallery images"
+msgstr ""
+
+#: options/woocommerce.php:239
+msgid "Number of gallery images"
+msgstr ""
+
+#: options/woocommerce.php:259
+msgid "Size of gallery images"
+msgstr ""
+
+#: options/woocommerce.php:292
+msgid "Gallery images border radius"
+msgstr ""
+
+#: options/woocommerce.php:321
+msgid "Whislist/Compare/Quick View icons opacity"
+msgstr ""
+
+#: options/woocommerce.php:341
+msgid "Whislist/Compare/Quick View icons border radius"
+msgstr ""
+
+#: options/woocommerce.php:383
+msgid "Floating product info"
+msgstr ""
+
+#: options/woocommerce.php:392
+msgid "Active tab"
+msgstr ""
+
+#: options/woocommerce.php:425
+msgid "Inactive tab color"
+msgstr ""
+
+#: options/woocommerce.php:544
+msgid "Filter by price slider color"
+msgstr ""
+
+#: options/woocommerce.php:573
+msgid "Header cart colors"
+msgstr ""
+
+#: options/woocommerce.php:579
+msgid "Counter"
+msgstr ""
+
+#: options/woocommerce.php:580
+msgid "Counter bg"
+msgstr ""
+
+#: options/woocommerce.php:609
+msgid "Header my account"
+msgstr ""

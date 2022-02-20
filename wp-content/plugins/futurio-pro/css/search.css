@@ -1,0 +1,183 @@
+/*------------------------------------------------------------------
+Search
+-------------------------------------------------------------------*/
+form.futurio-searchform button {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    min-width: 40px;
+    height: 60%;
+    height: 100%;
+    font-size: 12px;
+    font-weight: 600;
+    background-color: transparent !important;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    line-height: 1;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.futurio-search-wrap {
+  position: relative; }
+  .futurio-search-wrap .search-submit {
+    color: #333; }
+    .futurio-search-wrap .search-submit:focus, .futurio-search-wrap .search-submit:hover {
+      color: #333; }
+  .futurio-search-wrap .futurio-ajax-loading {
+    display: none;
+    background: transparent url("../img/loading.gif") no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    top: 50%;
+    right: 60px;
+    margin-top: -8px;
+    width: 16px;
+    height: 16px; }
+  .futurio-search-wrap .futurio-search-results {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+    overflow: hidden; }
+    .futurio-search-wrap .futurio-search-results ul {
+      list-style: none;
+      padding: 0;
+      margin: 0; }
+      .futurio-search-wrap .futurio-search-results ul li a.search-result-link {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center; }
+      .futurio-search-wrap .futurio-search-results ul li a {
+        position: relative;
+        font-size: 14px;
+        line-height: 1;
+        padding: 10px 34px 10px 13px;
+        border-bottom: 1px solid #eaeaea;
+        letter-spacing: 0.6px; }
+        .futurio-search-wrap .futurio-search-results ul li a img {
+          float: left;
+          max-width: 30px;
+          margin-right: 10px; }
+        .futurio-search-wrap .futurio-search-results ul li a .result-title {
+          display: block;
+          line-height: 1.3;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+        .futurio-search-wrap .futurio-search-results ul li a i.icon {
+          position: absolute;
+          top: 50%;
+          right: 13px;
+          margin-top: -6px;
+          font-size: 12px;
+          color: #aaa;
+          -webkit-transition: all 0.3s ease;
+          -moz-transition: all 0.3s ease;
+          -ms-transition: all 0.3s ease;
+          -o-transition: all 0.3s ease;
+          transition: all 0.3s ease; }
+        .futurio-search-wrap .futurio-search-results ul li a:hover i.icon {
+          color: #666; }
+        .futurio-search-wrap .futurio-search-results ul li a.all-results {
+          display: block;
+          font-size: 12px;
+          font-weight: 600;
+          letter-spacing: 0.6px;
+          text-align: center; }
+          .futurio-search-wrap .futurio-search-results ul li a.all-results span {
+            display: inline-block;
+            padding-bottom: 3px;
+            border-bottom: 1px solid; }
+            .futurio-search-wrap .futurio-search-results ul li a.all-results span i {
+              padding-left: 5px; }
+      .futurio-search-wrap .futurio-search-results ul li a.search-result-link:hover {
+        background-color: #f8f8f8;
+        color: #555; }
+      .futurio-search-wrap .futurio-search-results ul li:last-child a {
+        border-bottom: 0; }
+  .futurio-search-wrap .futurio-no-search-results {
+    position: relative;
+    font-size: 14px;
+    line-height: 1;
+    padding: 18px 18px; }
+    .futurio-search-wrap .futurio-no-search-results h6 {
+      margin: 0 0 10px; }
+    .futurio-search-wrap .futurio-no-search-results p {
+      margin: 0; }
+
+form.woovina-searchform {
+  width: 100%;
+  height: auto; }
+  form.woovina-searchform,
+  form.woovina-searchform input.field {
+    min-height: 40px; }
+  form.woovina-searchform input.field:focus {
+    -webkit-box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.1); }
+
+.futurio-align-left .futurio-search-wrap {
+  margin: 0 auto 0 0; }
+
+.futurio-align-center .futurio-search-wrap {
+  margin: 0 auto; }
+
+.futurio-align-right .futurio-search-wrap {
+  margin: 0 0 0 auto; }
+
+@media (max-width: 1024px) {
+  .futurio-tablet-align-left .futurio-search-wrap {
+    margin: 0 auto 0 0; }
+  .futurio-tablet-align-center .futurio-search-wrap {
+    margin: 0 auto; }
+  .futurio-tablet-align-right .futurio-search-wrap {
+    margin: 0 0 0 auto; } }
+
+@media (max-width: 767px) {
+  .futurio-mobile-align-left .futurio-search-wrap {
+    margin: 0 auto 0 0; }
+  .futurio-mobile-align-center .futurio-search-wrap {
+    margin: 0 auto; }
+  .futurio-mobile-align-right .futurio-search-wrap {
+    margin: 0 0 0 auto; } }
+
+/* RTL */
+body.rtl .futurio-search-wrap .futurio-ajax-loading {
+  left: 60px;
+  right: auto; }
+
+body.rtl .futurio-search-wrap .futurio-search-results {
+  right: 0;
+  left: auto; }
+
+body.rtl .futurio-search-wrap .futurio-search-results ul li a {
+  padding-left: 34px;
+  padding-right: 13px; }
+  body.rtl .futurio-search-wrap .futurio-search-results ul li a .result-thumb {
+    margin-left: 10px;
+    margin-right: 0; }
+  body.rtl .futurio-search-wrap .futurio-search-results ul li a i.icon {
+    left: 13px;
+    right: auto; }
+  body.rtl .futurio-search-wrap .futurio-search-results ul li a.all-results span i {
+    padding-right: 5px;
+    padding-left: 0; }
+
+body.rtl .futurio-search-wrap form.woovina-searchform button {
+  left: 0;
+  right: auto; }
